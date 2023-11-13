@@ -1,4 +1,4 @@
-$(function(){
+jQuery(document).ready(function($) {
 	
 	var note = $('#note'),
 		ts = new Date(2024, 1, 15),
