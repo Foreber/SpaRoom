@@ -7,7 +7,7 @@ body{
     background-color: #000;
 }
 .wrapper{
-    background-image: url(/img/IMG-20231110-WA0063.jpg);
+    background-image: url(img/IMG-20231110-WA0063.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
